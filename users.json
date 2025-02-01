@@ -1,0 +1,27 @@
+[
+    {
+        "id": 123,
+        "email": "xyz154@email.com",
+        "name": "Whitney Huff" 
+    },
+    {
+        "id": 456,
+        "email": "abc547@email.com",
+        "name": "Dean Luna" 
+    },
+    {
+        "id": 789,
+        "email": "mnc741@email.com",
+        "name": "Abe Vargas" 
+    },
+    {
+        "id": 534,
+        "email": "wyx527@email.com",
+        "name": "Alfreda Freeman" 
+    },
+    {
+        "id": 953,
+        "email": "xov418@email.com",
+        "name": "Cathryn Romero" 
+    }
+]
